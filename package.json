@@ -1,15 +1,11 @@
 {
-  "name": "05_express",
+  "name": "microservice",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "This is simple node application for microservice",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ravi Tambade",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "license": "ISC"
 }
